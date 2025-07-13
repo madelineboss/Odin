@@ -1,0 +1,23 @@
+*{
+    background-color: rgb(249, 238, 249);
+}
+h1{
+    text-align: center;
+}
+
+.cookie{
+    display: inline-block;
+    margin: 20px;
+    
+}
+
+.tart{
+    display: inline-block; 
+    margin-left: 20px;
+}
+
+
+.galette{
+    display: inline-block;
+    margin: 20px;
+}
